@@ -20,7 +20,7 @@ A Telegram bot that uses the OPT-350M model to generate AI responses. This bot i
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/telegram-ai-bot.git
+git clone https://github.com/itsresearcher/telegram-ai-bot.git
 cd telegram-ai-bot
 ```
 
